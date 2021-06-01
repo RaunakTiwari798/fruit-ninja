@@ -1,0 +1,20 @@
+[12/03/2021:21:42:24.156 D] Vortex 1.41.1, Windows 10 Version 1909, x86_64
+[12/03/2021:21:42:24.178 D] Local deep link server started
+[12/03/2021:21:42:25.137 D] Manufacturer: "ASUSTeK COMPUTER INC.", Model: "Vivo AIO 22 V222UA"
+[12/03/2021:21:42:25.137 D] CPU: "Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz"
+[12/03/2021:21:42:25.343 D] GPU: "Intel(R) UHD Graphics 620, driver version: 26.20.100.7372"
+[12/03/2021:21:42:25.463 D] QML: loading...
+[12/03/2021:21:42:30.776 W] qrc:/YesNoPopup.qml:22:5: QML ColumnLayout: Possible anchor loop detected on centerIn.
+[12/03/2021:21:42:30.776 W] qrc:/common/DefaultPopup.qml:83:13: QML QQuickItem: Binding loop detected for property "height"
+[12/03/2021:21:42:30.805 W] qrc:/YesNoPopup.qml:22:5: QML ColumnLayout: Possible anchor loop detected on centerIn.
+[12/03/2021:21:42:30.808 W] qrc:/common/DefaultPopup.qml:83:13: QML QQuickItem: Binding loop detected for property "height"
+[12/03/2021:21:42:31.775 W] QObject::startTimer: Timers cannot have negative intervals
+[12/03/2021:21:42:32.043 D] USER AGENT: "VortexDesktop/1.41.1 (Windows NT 10.0; Win64; x64)"
+[12/03/2021:21:42:34.653 I] MaintenanceTool not available
+[12/03/2021:21:42:34.655 D] QML: loaded successfully.
+[12/03/2021:21:42:41.599 D] WEBSOCKETSERVER - client connected
+[12/03/2021:21:42:41.627 D] WEBSOCKETSERVER - client connected
+[12/03/2021:21:44:17.443 D] Open in external browser https://vortex.gg/pricing?h=true&s=dw
+[12/03/2021:21:44:19.277 D] Open in external browser https://vortex.gg/pricing?h=true&s=dw
+[12/03/2021:21:44:41.253 D] WEBSOCKET - WebSocketTransport: disconnected
+[12/03/2021:21:44:41.253 D] WEBSOCKET - WebSocketTransport: disconnected
